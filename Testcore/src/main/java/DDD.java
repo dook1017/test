@@ -4,5 +4,6 @@
 public class DDD {
     public static void main(String[] args) {
         String now = "aa";
+        String bb ="bb";
     }
 }
